@@ -4,6 +4,7 @@
 ### 1. Data cleaning and transformtion
 * removed blank columns
 * replaced **"#N/A"** values in returns column with **"0"**
+  * done using power query editor
 
 ### 2. Data Insights
 * Create pivot tables to create visualisations
