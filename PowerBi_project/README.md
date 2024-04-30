@@ -6,25 +6,20 @@
 * replaced **"#N/A"** values in returns column with **"0"**
   * done using power query editor
 
-### 2. Data Insights
+### 2. Data Dashboard
+A dashboard from the data set given
+* Added slicer **region** to view insights as per different regions
+  
+### 3. Data Insights
 * Create pivot tables to create visualisations
-* **Pivot table 1:** Total no of orders and total values according to month
-* **Pivot table 2:** Men vs Women spendings
-* **Pivot table 3:** Top 5 states with most sales
-* **Pivot table 4:** Total no of order per order status
-* **Pivot table 5:** Total no of orders as per age group and gender
-* **Pivot table 6:** Channels and their total sales
+* **sales by segments:** consumer segment has most sales
+* **sales by payment mode:** cod is most preferredpayment mode
+* **sales by region:** shows sales as per region
+* **sales by ship mode:** standard mode is most preferred
+* **sales by segments category:** Phones are the top selling categories
 
-### 3. Data Dashboard
-A dashboard from the visualisations created using pivot tables
-* Added slicer **_Month, Category, Channel_** to view insights as one requires
-#### Insights
-* Most of the sales happen between feb-march
-* Women spend way more than men
-* More than 90% of the orders were delivered
-* Top 5 states with most sales, Maharashtra prevails the rankings
-* Women shops way more than men in any age group
-* Amazon contributes 35% of the total sales through channels
+
+
 
   
 
