@@ -18,6 +18,8 @@ A dashboard from the data set given
 * **sales by ship mode:** standard mode is most preferred
 * **sales by segments category:** Phones are the top selling categories
 
+### 3. Data forecasting 
+forecasted sales data for next 15 days is given in **salesforcast dashboard**
 
 
 
