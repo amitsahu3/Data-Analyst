@@ -11,7 +11,7 @@ A dashboard from the data set given
 * Added slicer **region** to view insights as per different regions
   
 ### 3. Data Insights
-* Create pivot tables to create visualisations
+Created data dashboard page to see visualisations
 * **sales by segments:** consumer segment has most sales
 * **sales by payment mode:** cod is most preferredpayment mode
 * **sales by region:** shows sales as per region
@@ -19,7 +19,7 @@ A dashboard from the data set given
 * **sales by segments category:** Phones are the top selling categories
 
 ### 3. Data forecasting 
-forecasted sales data for next 15 days is given in **salesforcast dashboard**
+forecasted sales data for next 15 days is given in **salesforcast dashboard** page
 
 
 
