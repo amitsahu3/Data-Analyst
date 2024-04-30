@@ -4,7 +4,6 @@
 ### 1. Data cleaning and transformtion
 * removed blank columns
 * replaced **"#N/A"** values in returns column with **"0"**
-* Added new column **"Month"**
 
 ### 2. Data Insights
 * Create pivot tables to create visualisations
